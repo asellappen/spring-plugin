@@ -25,4 +25,4 @@ arch:
 
 script:
 
-   -  travis_wait 30 mvn test
+   -  mvn test
